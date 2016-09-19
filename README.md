@@ -1,2 +1,0 @@
-# stickerless
-stickerless.com
